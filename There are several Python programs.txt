@@ -1,0 +1,3 @@
+There are several Python programs available for spam email detection. You can check out this GeeksforGeeks guide on building a spam email detection model using TensorFlow. It walks through data preprocessing, balancing datasets, and training a deep learning model.
+Additionally, GitHub has multiple repositories related to spam email detection, including projects using Naïve Bayes classifiers and machine learning techniques. You can explore them here.
+If you're looking for a tutorial on using Python for spam detection with Naïve Bayes classification, this CodeProject article provides a step-by-step guide.
